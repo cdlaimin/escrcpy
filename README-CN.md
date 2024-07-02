@@ -7,10 +7,10 @@
 📱 使用图形界面的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。[English Document](https://github.com/viarotel-org/escrcpy/blob/main/README.md)
 
 <div style="display:flex;">
-  <img src="./screenshots/zh-cn/overview.jpg" alt="viarotel-escrcpy" style="width: 100%;">
+  <img src="./screenshots/zh-CN/overview.jpg" alt="viarotel-escrcpy" style="width: 100%;">
 </div>
 
-[更多截图](https://github.com/viarotel-org/escrcpy/tree/main/screenshots/zh-cn)
+[更多截图](https://github.com/viarotel-org/escrcpy/tree/main/screenshots/zh-CN)
 
 ## 特点
 
@@ -129,7 +129,7 @@ Windows 及 Linux 端内部集成了 Gnirehtet， 用于提供 PC 到安卓设�
 ### 设备控制
 
 - 展示触摸点
-- 保持清醒
+- 保持唤醒
 - 控制时关闭屏幕
 - 控制结束关闭屏幕
 - 控制时禁用自动亮屏
@@ -309,9 +309,21 @@ Windows 及 Linux 端内部集成了 Gnirehtet， 用于提供 PC 到安卓设�
 > 如果该项目帮到你的话，可以请我喝杯咖啡，让我更有精神完善该项目 😛
 
 <div style="display:flex;">
-  <img src="./screenshots/zh-cn/viarotel-wepay.jpg" alt="viarotel-wepay" style="width: 30%;">
-  <img src="./screenshots/zh-cn/viarotel-alipay.jpg" alt="viarotel-alipay" style="width: 30%;">
+  <img src="./screenshots/zh-CN/viarotel-wepay.jpg" alt="viarotel-wepay" style="width: 30%;">
+  <img src="./screenshots/zh-CN/viarotel-alipay.jpg" alt="viarotel-alipay" style="width: 30%;">
   <a href="https://www.paypal.com/paypalme/viarotel" target="_blank" rel="noopener noreferrer">
-    <img src="./screenshots/en-us/viarotel-paypal.png" alt="viarotel-paypal" style="width: 30%;">
+    <img src="./screenshots/en-US/viarotel-paypal.png" alt="viarotel-paypal" style="width: 30%;">
   </a>
 </div>
+
+## 贡献者
+
+感谢他们的所做的一切贡献！
+
+<a href="https://github.com/viarotel-org/escrcpy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=viarotel-org/escrcpy" alt="contributors" />
+</a>
+
+## Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=viarotel-org/escrcpy&type=Date)](https://star-history.com/#viarotel-org/escrcpy&Date)

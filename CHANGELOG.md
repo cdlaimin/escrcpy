@@ -1,5 +1,45 @@
 # Changelog
 
+## [1.19.4](https://github.com/viarotel-org/escrcpy/compare/v1.19.3...v1.19.4) (2024-07-02)
+
+
+### Bug Fixes
+
+* 🐛 Fix terminal style problems ([9fc1ded](https://github.com/viarotel-org/escrcpy/commit/9fc1ded583fd1c48bdb1890e7b27021920716cbc))
+* Update Chinese language translations ([b8d77e3](https://github.com/viarotel-org/escrcpy/commit/b8d77e39214823b6c7903f926d68aead4f00274b))
+
+
+### Performance Improvements
+
+* 🚀 Update to scrcpy v2.5 ([22cc5a3](https://github.com/viarotel-org/escrcpy/commit/22cc5a3bc722d882a70e70ea2f45aa7577b01df5))
+
+## [1.19.3](https://github.com/viarotel-org/escrcpy/compare/v1.19.2...v1.19.3) (2024-06-13)
+
+
+### Bug Fixes
+
+* 🐛 Abnormal operations cause the program that cannot be closed ([b989140](https://github.com/viarotel-org/escrcpy/commit/b9891404f4251b7fa22cc0481d1cda29c11092dd))
+
+## [1.19.2](https://github.com/viarotel-org/escrcpy/compare/v1.19.1...v1.19.2) (2024-06-03)
+
+
+### Bug Fixes
+
+* 🐛 Automatically apply local languages ([0cc8208](https://github.com/viarotel-org/escrcpy/commit/0cc8208dd1bb51f700dcab213bd598ba07186bbb))
+
+## [1.19.1](https://github.com/viarotel-org/escrcpy/compare/v1.19.0...v1.19.1) (2024-05-26)
+
+
+### Bug Fixes
+
+* 🐛 In some cases, the light mode is abnormal ([ea227e0](https://github.com/viarotel-org/escrcpy/commit/ea227e0792b4938c8763efc833c34e8e7d587323))
+* 🐛 Search for shortcut key conflicts ([c70e6ca](https://github.com/viarotel-org/escrcpy/commit/c70e6ca2fc716ecea495b032ec0c9f4c2fc7e421))
+
+
+### Performance Improvements
+
+* ♻️ Search prompts ([0d963aa](https://github.com/viarotel-org/escrcpy/commit/0d963aab65297964a19b5e7ed1982732e96bcfcb))
+
 ## [1.19.0](https://github.com/viarotel-org/escrcpy/compare/v1.18.4...v1.19.0) (2024-05-15)
 
 
